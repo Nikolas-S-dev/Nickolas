@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nickolas
 - 👀 I’m interested in coding!
-- 📫 How to reach me ...? Nickolas#9046(discord)
+- 📫 How to reach me ...? Nickolas#8334(discord)
 
 <!---
 NickolasMin/NickolasMin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
